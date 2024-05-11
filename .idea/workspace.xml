@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="119ac2d1-f2b9-4207-a3ae-6cfbbd9f31a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter _3_exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BreakTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculateCostOffuel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LargeLetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberWithComma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OperationOfTwoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PaperProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PerameterConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PropertiesOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PropertiesOfRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveCommaInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TicTacToeGrid.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2gKIn2iXx3DYhYcotRREN6fEXPi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BreakTheNumber.executor": "Run",
+    "Application.CalculateCostOffuel.executor": "Run",
+    "Application.LargeLetter.executor": "Run",
+    "Application.NumberProperties.executor": "Run",
+    "Application.NumberWithComma.executor": "Run",
+    "Application.OperationOfTwoNumber.executor": "Run",
+    "Application.PaperProperties.executor": "Run",
+    "Application.PerameterConvert.executor": "Run",
+    "Application.PropertiesOfCircle.executor": "Run",
+    "Application.PropertiesOfRectangle.executor": "Run",
+    "Application.RemoveCommaInAString.executor": "Run",
+    "Application.TicTacToeGrid.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "E:/JAVA/chapter _3_exercises/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="119ac2d1-f2b9-4207-a3ae-6cfbbd9f31a8" name="Changes" comment="" />
+      <created>1715440010168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715440010168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
